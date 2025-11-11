@@ -6,16 +6,16 @@
 
 
 
-🗂️## Overview :
+## 🗂️ Overview :
 
 This project is an analysis of supermarket sales using Excel . This analysis includes a dashboard with the total sales over time, sales by region, customer preferences, and it is possible to filter by products type , profit making products. There are also some relevant insights regarding the sales .
 
 
-🛠️## Tool used :
+## 🛠️ Tool used :
 
 Microsoft Excel
 
-📊## Result and Insights :
+## 📊 Result and Insights :
 
  - We are able to see The highest sales are in the "Food and Beverages" category.
    
@@ -32,12 +32,12 @@ Microsoft Excel
  - Sunday is the most profitable day, implying higher footfall or weekend shopping trends.
 
 
-📘## Data Story :
+## 📘 Data Story :
 
 The Supermarket Sales Dashboard provides an analytical view of sales and transactional performance across various metrics for three store locations: Naypyitaw, Yangon, Mandalay. This visual representation highlights sales trends, revenue patterns, busiest times, and product performance.
 
 
-💡## Suggestions :
+## 💡 Suggestions :
 
  - Offer discounts or promotions on "Health and Beauty" products.
    
@@ -48,7 +48,7 @@ The Supermarket Sales Dashboard provides an analytical view of sales and transac
  - Introduce a customer loyalty program to encourage repeat purchases.
 
 
-🖥️## Dashboard :
+## 🖥️ Dashboard :
 
 
 ![Screenshot 2025-02-18 210606](https://github.com/user-attachments/assets/883b43ae-5c27-4cce-a40c-74ea27143db2)
